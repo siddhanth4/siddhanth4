@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development & Ethical Hacking**
 
-- 👯 I’m looking to collaborate in **Open Source Project**
+- 👯 I’m looking to collaborate on **Open Source Project**
 
 - 📫 How to reach me **123siddhanth@gmail.com**
 
